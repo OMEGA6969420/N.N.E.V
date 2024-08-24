@@ -82,4 +82,4 @@ async def video_al(ctx):
 
 
 
-bot.run('MTI1Mzk4OTI3MzA0OTUwMTc0Ng.GwawFs.EObT5I_bCZQf5LWIXeoxtchvAejNwqyUgehjBk') 
+bot.run('Discord Token') 
